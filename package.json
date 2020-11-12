@@ -9,7 +9,7 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "engines": {
-    "node": "12.x"
+    "node": "14.15.0"
   },
   "dependencies": {
     "axios": "^0.20.0",
