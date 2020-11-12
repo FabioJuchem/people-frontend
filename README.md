@@ -1,4 +1,4 @@
-# html2pdf-frontend
+# people-frontend
 
 ## Project setup
 ```
